@@ -19,14 +19,17 @@ To run each of the simulations, save their respective .csv files (trajectory and
 
 Results of 'Best' PI gains configuration:
 
+https://user-images.githubusercontent.com/58793794/214854660-81fc16f5-a7d7-45fd-8cdb-353ea36fc39c.mp4
+
 
 Results of 'Overshoot' PI gain configuration:
+
+https://user-images.githubusercontent.com/58793794/214854746-2ed826f7-8cb0-42ad-b58b-e84ede8701e6.mp4
 
 
 Results of 'New Task' trajectory and PI gain configuration:
 
-
-
+https://user-images.githubusercontent.com/58793794/214854793-772a8d59-3efb-4f3c-85c2-de2d6c00d786.mp4
 
 
 ### Disclaimer

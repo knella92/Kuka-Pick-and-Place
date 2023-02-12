@@ -4,7 +4,7 @@
 ## Overview
 This package contains a MATLAB script that performs the following:
 
-1. Generates reference trajectory of an 8-segment trajectory of the end effector of a youBot starting at an initial configuration, traveling to and picking up a block, and placing the block at a new location/configuration.
+1. Generates reference trajectory of an 8-segment trajectory of the end effector of a youBot starting at an initial configuration, traveling to and picking up a block, and placing the block at a new location/configuration. These each step of each segment is calculated using forward and inverse kinematics of the manipulator and chassis of the robot. These were implemented using the body and spatial screw axes of the manipulator, twists, and transformation matrices.
 
 2. Feedback control to mitigate error between actual and reference trajectory by commanding a corrective twist determined by the implementation of feedforward, proportional, integral controls, or any combination of the aforementioned.
 
